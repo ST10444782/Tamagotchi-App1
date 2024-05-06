@@ -22,15 +22,19 @@ Design Utilization:
 •	Event Handling: Button click listeners are implemented to handle user interactions. When users click on buttons like "Feed", "Clean", or "Play", corresponding actions are triggered to update the pet's status and UI display.
 •	State Management: The app maintains the state of the virtual pet through variables like health, hunger, and cleanliness. These variables are updated based on user actions and ensure the consistency of the pet's status. 
 •	 
-•	This is the first image of the 2nd screen logic ![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/759d6c11-9197-4eb2-948f-c23e0620bbe8)
+•	This is the first image of the 2nd screen logic
+![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/759d6c11-9197-4eb2-948f-c23e0620bbe8)
 
-This is the image you get when you press the Feed button and the values are shown on the side ![Screenshot 05-06-2024 22 40 43](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/bc10ce57-6158-4c63-
+This is the image you get when you press the Feed button and the values are shown on the side
+![Screenshot 05-06-2024 22 40 43](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/bc10ce57-6158-4c63-
 
 
-This is the image you get when you press the Play button![Screenshot 05-06-2024 22 40 54](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/ebb588c9-1429-428f-9c94-3d413f5fe77b)
+This is the image you get when you press the Play button
+![Screenshot 05-06-2024 22 40 54](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/ebb588c9-1429-428f-9c94-3d413f5fe77b)
 
  
-This is the image you get when you press the Clean button8755-69726acaf948)![Screenshot 05-06-2024 22 41 10](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/05eb6d35-5a16-4c41-9017-86467ba0e528)
+This is the image you get when you press the Clean button8755-69726acaf948)
+![Screenshot 05-06-2024 22 41 10](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/05eb6d35-5a16-4c41-9017-86467ba0e528)
 
 
 Usage:
