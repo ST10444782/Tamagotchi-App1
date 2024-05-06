@@ -1,4 +1,5 @@
-![Screenshot 05-06-2024 22 39 56](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/6a08fcf3-2d57-4310-aa88-a6eda7b1a17f)
+![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/759d6c11-9197-4eb2-948f-c23e0620bbe8)
+
 # Tamagotchi-App1
 IMAD Assignment 2
 First of all, 
@@ -9,7 +10,7 @@ Qualities:
 
 Feeding: To reduce hunger and improve its health, users can feed their virtual pet and with that you can see if your pet is full or not or if it needs to be fed, feeding the pet will also improve the pets health which also show if the pets health is down or up. 
 Cleaning: A pet's well-being and health depends upon its ability to stay clean. To keep their pet healthy and clean, owners can clean the pet after it has played and you can also see if the pet is clean or not when you see if it is on 0 or 100  you will know if the pet is clean or not by checking on its values  
-Playing: Having fun and interacting with your pet might make it happier and healthier. To keep their virtual pet happy and healthy, users can play with it, which will help improve the pet’s overall health. When playing with the pet you will notice that its hunger will go up and the cleanliness will go down, following the same examples as humans when you play you get dirty and also your overall health increases with your hunger going up.
+Playing: Having fun and interacting with your pet might make it happier and healthier. To keep their virtual pet happy and healthy, users can play with it, which will help improve the pet’s overall health. When playing with the pet you will notice that its hunger will go up and the cleanliness will go down, following the same examples as humans when you play you get dirty and also your overall health increases with your hunger going up.[Screenshot 05-06-2024 22 39 56](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/6a08fcf3-2d57-4310-aa88-a6eda7b1a17f)
 Features:
 1.	Feeding: Users can feed their virtual pet to reduce its hunger and improve its health.
 2.	Cleaning: Keeping the pet clean is essential for its health and well-being. Users can clean their pet to maintain its cleanliness and health.
@@ -22,13 +23,16 @@ Design Utilization:
 •	Event Handling: Button click listeners are implemented to handle user interactions. When users click on buttons like "Feed", "Clean", or "Play", corresponding actions are triggered to update the pet's status and UI display.
 •	State Management: The app maintains the state of the virtual pet through variables like health, hunger, and cleanliness. These variables are updated based on user actions and ensure the consistency of the pet's status. 
 •	 
-•	This is the first image of the 2nd screen logic 
+•	This is the first image of the 2nd screen logic ![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/759d6c11-9197-4eb2-948f-c23e0620bbe8)
+
+This is the image you get when you press the Feed button and the values are shown on the side ![Screenshot 05-06-2024 22 40 43](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/bc10ce57-6158-4c63-
+
+
+This is the image you get when you press the Play button![Screenshot 05-06-2024 22 40 54](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/ebb588c9-1429-428f-9c94-3d413f5fe77b)
+
  
-This is the image you get when you press the Feed button and the values are shown on the side 
- 4
-This is the image you get when you press the Play button
- 
-This is the image you get when you press the Clean button
+This is the image you get when you press the Clean button8755-69726acaf948)![Screenshot 05-06-2024 22 41 10](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/05eb6d35-5a16-4c41-9017-86467ba0e528)
+
 
 Usage:
 1.	Installation: Download and install the Virtual Pet Care App on your Android device from the provided APK file or through the Google Play Store.
