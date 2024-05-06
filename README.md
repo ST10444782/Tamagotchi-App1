@@ -53,3 +53,24 @@ Implications and Benefits: The popularity of virtual pets extends beyond enterta
 In summary, virtual pets provide people an interesting and exciting way to connect with technology by that links the exciting intersections of design, human psychology, and technology. We can learn more about the attractiveness and effects of virtual pets on users' life by understanding the processes, design concepts, and user interaction that go into creating them. Virtual pets keep captivating audiences globally. whether as a means of enjoyment, knowledge, or friendship. As a result, they are influencing how we interact with technology and one another in the digital age. 
 
 
+Reference List:
+Android Developers Documentation:
+Android Developers. Android Developers Documentation. Retrieved from https://developer.android.com/docs
+[Accessed 2024/04/28]
+
+GitHub Guides and Documentation:
+GitHub. (2024) GitHub Guides and Documentation. Retrieved from https://docs.github.com/en
+[Accessed 2024/04/28]
+
+GitHub Actions Documentation:
+GitHub. (2024). GitHub Actions Documentation. Retrieved from https://docs.github.com/en/actions
+[Accessed 2024/04/28]
+
+Kotlin Programming Language Documentation:
+JetBrains. Kotlin Programming Language Documentation. Retrieved from https://kotlinlang.org/docs/home.html
+[Accessed on 2024/05/02]
+The IIE.2024.[IMAD5112 Module Manual]The independent Institute of Education:Unpublished
+The IIE.2024.[IPRG5111 Module Manual]The independent Institute of Education:Unpublished
+
+
+
