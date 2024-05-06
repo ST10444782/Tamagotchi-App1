@@ -1,4 +1,3 @@
-![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/759d6c11-9197-4eb2-948f-c23e0620bbe8)
 
 # Tamagotchi-App1
 IMAD Assignment 2
