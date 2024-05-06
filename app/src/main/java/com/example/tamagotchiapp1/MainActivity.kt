@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     @SuppressLint("WrongViewCast", "SetTextI18n")
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) { 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
@@ -24,17 +24,17 @@ class MainActivity : AppCompatActivity() {
         val btnPlay = findViewById<Button>(R.id.btnPlay)
         val petImage = findViewById<ImageView>(R.id.imageView)
 
-        var health = 0
+        var health = 0 // The IIE 2024. Declaring Variables[IMAD5111 Module Manual]
         var hunger = 100
         var cleanliness = 100
 
         btnCleaner.setOnClickListener {
             cleanliness += 10
-            health += 10
+            health += 10// www.w3Schools.com/kotlin/index.php
             if (cleanliness<0) {
                 cleanliness=0
             }
-            if (health>100) health=100
+            if (health>100) health=100 // The IIE 2024.if Statements[IMAD5111 Module Manual]
             petImage.setImageResource(R.drawable.dobbermanbathing)
             txtHealth.text = "Health: $health"
             txtClean.text = "clean pet: $cleanliness"
@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 
         }
         btnPlay.setOnClickListener {
-            health += 10
+            health += 10// The IIE 2024 Arithmetic Operators
             hunger += 10
             cleanliness -= 10
             if (hunger>100) hunger=100
@@ -79,7 +79,10 @@ class MainActivity : AppCompatActivity() {
 
 
 }
-
+// The  IIE .2024. IF Statements[ IPRG5111 Module Manual]
+// www.w3Schools.com/kotlin/index. php
+// The IIE. 2024. Declaring Variables[ IMAD5111 Module Manual]
+// The IIE.2024. Arithmeic  Operators [IMAD5111 Module Manual]
 
 
 
