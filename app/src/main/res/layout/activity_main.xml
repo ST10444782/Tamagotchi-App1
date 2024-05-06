@@ -53,6 +53,7 @@
         android:layout_width="279dp"
         android:layout_height="233dp"
         android:background="#226970"
+        android:contentDescription="@string/Get_started_with_tamagotchi"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
