@@ -22,7 +22,7 @@ Design Utilization:
 •	Images: The app includes image resources to represent different states of the virtual pet, such as feeding, cleaning, and playing. These images are dynamically updated based on user interactions.
 •	Event Handling: Button click listeners are implemented to handle user interactions. When users click on buttons like "Feed", "Clean", or "Play", corresponding actions are triggered to update the pet's status and UI display.
 •	State Management: The app maintains the state of the virtual pet through variables like health, hunger, and cleanliness. These variables are updated based on user actions and ensure the consistency of the pet's status. 
-•	This is the first image of the 2nd screen logic
+•![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/094dfbcb-7364-4550-9112-0a5b234a366d)	This is the first image of the 2nd screen logic
 e shown on the side
 
 This is the image you get when you press the Play button
