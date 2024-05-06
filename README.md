@@ -14,7 +14,8 @@ Features:
 1.	Feeding: Users can feed their virtual pet to reduce its hunger and improve its health.
 2.	Cleaning: Keeping the pet clean is essential for its health and well-being. Users can clean their pet to maintain its cleanliness and health.
 3.	Playing: Interacting and playing with the pet helps to improve its health and mood. Users can play with their virtual pet to keep it happy and healthy. 
-4.	 
+4.	 ![Screenshot 05-06-2024 22 39 56](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/b35d12ad-379c-4b1a-961a-7971950b9400)
+
 5.	It has a second screen logic where when you press this button it will take you to the next screen and that is where you going to see the imageview and how the VirtualPet works
 Design Utilization:
 •	UI Elements: The app utilizes various UI elements such as TextViews to display the pet's health, hunger, and cleanliness status. Buttons are used to trigger actions like feeding, cleaning, and playing.
@@ -22,16 +23,11 @@ Design Utilization:
 •	Event Handling: Button click listeners are implemented to handle user interactions. When users click on buttons like "Feed", "Clean", or "Play", corresponding actions are triggered to update the pet's status and UI display.
 •	State Management: The app maintains the state of the virtual pet through variables like health, hunger, and cleanliness. These variables are updated based on user actions and ensure the consistency of the pet's status. 
 •	This is the first image of the 2nd screen logic
-![Screenshot 05-06-2024 22 40 20](https://github.com/ST10444782/Tamagotchi-App1/assets/161002155/759d6c11-9197-4eb2-948f-c23e0620bbe8)
-
-This is the image you get when you press the Feed button and the values are shown on the side
-![Screenshot 05-06-2024 22 40 43](
+e shown on the side
 
 This is the image you get when you press the Play button
-![Screenshot 05-06-2024 22 40 54]
- 
-This is the image you get when you press the Clean button8755-69726acaf948)
-![Screenshot 05-06-2024 22 41 10]
+
+This is the image you get when you press the Clean button
 
 
 Usage:
